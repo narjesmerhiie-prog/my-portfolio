@@ -167,18 +167,7 @@ export function Projects() {
                         <Folder className="w-6 h-6 text-primary" />
                       </div>
                       <div className="flex items-center gap-2">
-                        <a
-                          href={project.github}
-                          className="p-2 rounded-lg hover:bg-primary/10 transition-colors"
-                          aria-label="View GitHub repository"
-                        >
-                          <Github className="w-5 h-5 text-muted-foreground hover:text-primary" />
-                        </a>
-                        <a
-                          href={project.demo}
-                          className="p-2 rounded-lg hover:bg-primary/10 transition-colors"
-                          aria-label="View live demo"
-                        >
+                        
                           <ExternalLink className="w-5 h-5 text-muted-foreground hover:text-primary" />
                         </a>
                       </div>
