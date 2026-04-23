@@ -12,6 +12,12 @@ const contactInfo = [
     value: "+961 81 687 152",
     href: "tel:+96181687152",
   },
+   {
+    icon: Mail,
+    label: "Email",
+    value: "narjesmerhiie@gmail.com",
+    href: "mailto:narjesmerhiie@gmail.com",
+  },
 ]
 
 const socialLinks = [
