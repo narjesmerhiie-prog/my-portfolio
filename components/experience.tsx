@@ -8,7 +8,7 @@ import { Briefcase, Calendar, MapPin } from "lucide-react"
 const experiences = [
   {
     company: "Zero & One",
-    role: "AI Engineer Intern",
+    role: "Software development Intern",
     location: "Beirut, Lrbanon",
     period: "2025",
     description: "Built an AI Helpdesk System from the ground up, focusing on semantic search and intelligent responses.",
@@ -23,7 +23,7 @@ const experiences = [
   },
   {
     company: "Monty Mobile",
-    role: "Software Development Intern",
+    role: "AI Engineer Intern",
     location: "Beirut, Lebanon",
     period: "2024",
     description: "Focused on AI workflow automation and conversational AI systems for telecommunications.",
