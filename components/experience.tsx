@@ -9,8 +9,8 @@ const experiences = [
   {
     company: "Zero & One",
     role: "AI Engineer Intern",
-    location: "Remote",
-    period: "2024",
+    location: "Beirut, Lrbanon",
+    period: "2025",
     description: "Built an AI Helpdesk System from the ground up, focusing on semantic search and intelligent responses.",
     achievements: [
       "Developed a RAG-based AI helpdesk using pgvector + PostgreSQL for semantic search",
@@ -23,7 +23,7 @@ const experiences = [
   },
   {
     company: "Monty Mobile",
-    role: "AI Engineer Intern",
+    role: "Software Development Intern",
     location: "Beirut, Lebanon",
     period: "2024",
     description: "Focused on AI workflow automation and conversational AI systems for telecommunications.",
