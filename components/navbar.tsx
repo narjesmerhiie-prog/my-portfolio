@@ -64,17 +64,17 @@ export function Navbar() {
           </div>
 
           {/* 
-          // Button - Desktop */}
-          // <div className="hidden lg:block">
-          //   <Button
-          //     variant="outline"
-          //     size="sm"
-          //     className="border-primary/50 text-primary hover:bg-primary/10 hover:border-primary glow-sm"
-          //   >
-          //     <Download className="w-4 h-4 mr-2" />
-          //     Download CV
-          //   </Button>
-          // </div>
+          Button - Desktop */}
+          <div className="hidden lg:block">
+            <Button
+              variant="outline"
+              size="sm"
+              className="border-primary/50 text-primary hover:bg-primary/10 hover:border-primary glow-sm"
+            >
+              {/* <Download className="w-4 h-4 mr-2" />
+              Download CV
+            </Button>
+          </div> */}
 
           {/* Mobile Menu Button */}
           <button
