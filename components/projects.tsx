@@ -15,7 +15,7 @@ const projects = [
     description: "An intelligent helpdesk system using RAG (Retrieval-Augmented Generation) for semantic search and context-aware responses. Features vector embeddings for efficient document retrieval.",
     technologies: ["NestJS", "React.js", "PostgreSQL", "pgvector", "AWS Bedrock", "Docker"],
     category: "AI/ML",
-    featured: true,
+    
     impact: "Reduced response time by 60% and improved customer satisfaction",
     github: "#",
     demo: "#",
