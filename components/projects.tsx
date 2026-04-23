@@ -25,7 +25,7 @@ const projects = [
     description: "Real-time AI-powered call agent with natural language understanding and automated booking capabilities. Integrates with calendar systems for seamless scheduling.",
     technologies: ["n8n", "AI Agents", "NLP", "API Integration", "Real-time Processing"],
     category: "Automation",
-    featured: true,
+    
     impact: "Automated 40% of customer calls with booking functionality",
     github: "#",
     demo: "#",
