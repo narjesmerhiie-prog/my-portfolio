@@ -166,7 +166,7 @@ export function Projects() {
                       <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center group-hover:glow-sm transition-all">
                         <Folder className="w-6 h-6 text-primary" />
                       </div>
-                      <div className="flex items-center gap-2">
+                      {/* <div className="flex items-center gap-2">
                         <a
                           href={project.github}
                           className="p-2 rounded-lg hover:bg-primary/10 transition-colors"
@@ -181,7 +181,7 @@ export function Projects() {
                         >
                           <ExternalLink className="w-5 h-5 text-muted-foreground hover:text-primary" />
                         </a>
-                      </div>
+                      </div> */}
                     </div>
 
                     {/* Content */}
