@@ -3,7 +3,7 @@
 import { motion } from "framer-motion"
 import { useInView } from "framer-motion"
 import { useRef } from "react"
-import { MessageSquare, Phone, Linkedin, Github } from "lucide-react"
+import { MessageSquare, Phone, Linkedin, Github ,  Mail} from "lucide-react"
 
 const contactInfo = [
   {
